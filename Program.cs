@@ -10,6 +10,9 @@ namespace gitProjekt2
     {
         static void Main(string[] args)
         {
+            Osoba osoba = new Osoba();
+            Console.WriteLine("datum narozeni:");
+            Console.WriteLine();
         }
     }
 }
